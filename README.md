@@ -41,4 +41,4 @@
 
 
  ### Credits:
- 该工具在https://github.com/virajmavani/semi-auto-image-annotation-tool的基础上做的修改、优化。
+ 该工具在https://github.com/virajmavani/semi-auto-image-annotation-tool 的基础上做的修改、优化。
