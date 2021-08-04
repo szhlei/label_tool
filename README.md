@@ -41,4 +41,4 @@
 
 
  ### Credits:
- 该工具在某一款标注工具的基础上做的修改、优化，由于时间太久，原项目地址找不上了，若有人知道也烦请告知，感谢。
+ 该工具在https://github.com/virajmavani/semi-auto-image-annotation-tool的基础上做的修改、优化。
